@@ -45,23 +45,17 @@ Player Pool → Auction Controls → Sold/Unsold
 
 ### Auction Interface
 
-![Auction Interface](screenshots/auction.png)
+![Auction Interface](auc1.png)
 
 ### Team Dashboard
 
-![Team Dashboard](screenshots/team-dashboard.png)
+![Team Dashboard](auc2.png)
 
 ### Manager Controls
 
-![Manager Controls](screenshots/manager-controls.png)
+![Manager Controls](auc3.png)
 
-## Project Objective
 
-To build a structured, interactive simulation of an IPL auction while demonstrating spreadsheet-based data modeling, automation, and team-level analytics.
-
-## Technology Stack
-
-**Google Sheets | Google Apps Script | Spreadsheet Formulas | Data Validation | Charts**
 
 ## Author
 
